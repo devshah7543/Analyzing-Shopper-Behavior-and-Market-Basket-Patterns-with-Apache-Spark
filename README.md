@@ -10,7 +10,7 @@ The analysis utilized Instacart's anonymized dataset, which was released on Kagg
 **Purpose**: Explore customer purchasing patterns and optimize product recommendations.<br/>
 **Dataset Source**: [Instacart Dataset on Kaggle](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data) <br/>
 
-##Platform & Tools
-**Framework**: Apache Spark
-**Languages**: PySpark, Spark SQL, and Scala
-**Platform**: Databricks Cloud
+## Platform & Tools
+**Framework**: Apache Spark<br/>
+**Languages**: PySpark, Spark SQL, and Scala<br/>
+**Platform**: Databricks Cloud<br/>
