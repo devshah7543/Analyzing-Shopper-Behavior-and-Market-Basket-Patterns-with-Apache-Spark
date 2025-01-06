@@ -1,4 +1,4 @@
-# Market Basket Analysis with Apache Spark
+# Shopper Behaviour Analysis using Market Basket Analysis with Apache Spark
 
 ## Project Overview
 This project involved performing exploratory data analysis (EDA) on over 3 million grocery orders from Instacart to uncover shopper behavior patterns. Using Apache Spark on Databricks, I implemented the FP-Growth algorithm for market basket analysis to identify product associations and provide actionable insights.
